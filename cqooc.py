@@ -12,7 +12,7 @@ import re
 # 不推荐使用Python IDLE运行（执行输出会乱码）
 # 如果使用CMD/PowerShell运行过程中，"卡"住，请多敲几下回车即可
 
-cookie_xsid = ''
+pgv_pvid=1075405575; __qc_wId=463; xsid=30DA01CD64FCB316; player=1
 
 ########################################################
 
